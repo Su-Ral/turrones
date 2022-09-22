@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #777;
+		color: #202020;
 		line-height: 1.65em;
 		font-size: 15pt;
 	}
@@ -1655,9 +1655,9 @@ input, select, textarea {
 /* Form */
 
 	form label {
-		font-weight: 600;
+		font-weight: 900;
 		text-transform: uppercase;
-		color: #888;
+		color: #000000;
 		display: block;
 		margin: 0 0 1em 0;
 	}
@@ -1695,20 +1695,20 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: #000000 !important;
 		line-height: 1.35em;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: #000000 !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: #000000 !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color: #000000 !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -2639,7 +2639,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 5em 0;
+				padding: 4em 0;
 			}
 
 				#banner > .container {
