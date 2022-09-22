@@ -2110,7 +2110,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		background: url("../../images/banner.jpg");
 		background-size: cover;
-		padding: 12em 0;
+		padding: 11em 0; /*110-50 */
 	}
 
 		#banner p {
@@ -2248,7 +2248,7 @@ input, select, textarea {
 				font-size: 13pt;
 			}
 			#banner {
-				padding: 14em 0;
+				padding: 8em 0;
 			}
 
 				#banner > .container {
@@ -2310,7 +2310,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 10.5em 0;
+				padding: 7.5em 0;  /*150 - 300 DONE */
 			}
 
 				#banner > .container {
@@ -2639,7 +2639,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 8em 0;
+				padding: 5em 0;
 			}
 
 				#banner > .container {
